@@ -3,3 +3,4 @@ Nog een regel
 Laatste regel
 Toch nog een regel
 Allerlaatste regel
+Test regel conflict
