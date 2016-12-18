@@ -1,3 +1,4 @@
 this is a test file for svn add <filename>
 Nog een regel
 Laatste regel
+Toch nog een regel
