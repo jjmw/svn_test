@@ -6,3 +6,4 @@ regelllllllllll llll
 Allerlaatste regel
 Test regel conflict
 Theirs accepted
+nog een theirs accepted
