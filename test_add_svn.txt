@@ -4,8 +4,4 @@ Laatste regel
 Toch nog een regel
 regelllllllllll llll
 Allerlaatste regel
-Test regel conflict
-Theirs accepted
-nog een eigen regel
-nog een theirs accepted
-bla bla
+==========
